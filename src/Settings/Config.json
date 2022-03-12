@@ -1,0 +1,40 @@
+{
+
+    "Roles": {
+        "BoyRole1": "951953729781895299",
+        "BoyRole2": "951954014973595668",
+        "GirlRole1": "951953729828048906",
+        "GirlRole2": "951954014973595668",
+        "Unregister": "951954645905977368",
+        "Registerer": "951955186019098694",
+        "ustyetki": "951952060088217631",
+        "TagRole": "951955305942626304",
+        "Suspicious": "951960053471146054",
+        "Booster": "952094389369458708",
+        "Jail": "951958826582691860"
+    },
+        "Colors": {
+            "Red": "ff0000",
+            "Magenta": "660099",
+            "Black": "000000",
+            "Gold": "ffd700",
+            "Pink": "ffcbdb",
+            "Green": "66ff00",
+            "Yellow": "ffff00"
+    },
+        "ServerSettings": {
+            "ServerID": "951941159440236544",
+            "Tag": "$"
+    },
+        "Channels": {
+            "RegisterChat": "951950311466106990",
+            "RegisterLog": "952155573045055498",
+            "TagLog": "951960451640594482",
+            "Rules": "952091286926667797",
+            "GeneralChat": "951941159440236547"
+        },
+        "Welcome": {
+            "WelcomeChat": "951950311466106990",
+            "WelcomeName": "$ İsim | Yaş"
+        }
+}
