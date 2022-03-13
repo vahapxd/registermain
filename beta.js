@@ -170,4 +170,4 @@ client.on("userUpdate", async (losxstg, yeni) => {
 });
 //------------------------------------------------TAG-KONTROL--------------------------------------------------\\  
 
-client.login(Main.Token).catch(() => console.log('Tokeni kontrol ediniz.'));
+client.login("OTUyMDk4NjMyODU1ODYzMjk2.YixE8w.CMLBPsr-aRZAcLhiHCHkmPaTcJI").catch(() => console.log('Tokeni kontrol ediniz.'));
